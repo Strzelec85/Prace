@@ -1,0 +1,184 @@
+[
+  {
+    "imie": "Julian",
+    "nazwisko": "K.",
+    "oceny": [
+      5,
+      3,
+      4,
+      5,
+      4,
+      5,
+      3
+    ]
+  },
+  {
+    "imie": "Marta",
+    "nazwisko": "V.",
+    "oceny": [
+      2,
+      4,
+      3,
+      4,
+      3,
+      3,
+      5
+    ]
+  },
+  {
+    "imie": "Pawe\u0142",
+    "nazwisko": "Y.",
+    "oceny": [
+      3,
+      3,
+      4,
+      3,
+      4,
+      2,
+      4
+    ]
+  },
+  {
+    "imie": "Izabela",
+    "nazwisko": "N.",
+    "oceny": [
+      6,
+      5,
+      3,
+      3,
+      3,
+      5,
+      6
+    ]
+  },
+  {
+    "imie": "Julian",
+    "nazwisko": "Y.",
+    "oceny": [
+      3,
+      4,
+      4,
+      4,
+      4,
+      3,
+      4
+    ]
+  },
+  {
+    "imie": "Wiktor",
+    "nazwisko": "Z.",
+    "oceny": [
+      5,
+      5,
+      3,
+      4,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "imie": "Wiktor",
+    "nazwisko": "Q.",
+    "oceny": [
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      3
+    ]
+  },
+  {
+    "imie": "Izabela",
+    "nazwisko": "W.",
+    "oceny": [
+      4,
+      4,
+      3,
+      3,
+      5,
+      5,
+      5
+    ]
+  },
+  {
+    "imie": "Izabela",
+    "nazwisko": "M.",
+    "oceny": [
+      5,
+      6,
+      4,
+      5,
+      5,
+      6,
+      3
+    ]
+  },
+  {
+    "imie": "Maciej",
+    "nazwisko": "D.",
+    "oceny": [
+      1,
+      5,
+      3,
+      1,
+      5,
+      3,
+      3
+    ]
+  },
+  {
+    "imie": "Maciej",
+    "nazwisko": "L.",
+    "oceny": [
+      4,
+      3,
+      2,
+      4,
+      5,
+      5,
+      2
+    ]
+  },
+  {
+    "imie": "Wiktor",
+    "nazwisko": "R.",
+    "oceny": [
+      3,
+      4,
+      4,
+      3,
+      3,
+      3,
+      5
+    ]
+  },
+  {
+    "imie": "Marta",
+    "nazwisko": "I.",
+    "oceny": [
+      3,
+      2,
+      3,
+      4,
+      3,
+      3,
+      4
+    ]
+  },
+  {
+    "imie": "Pawe\u0142",
+    "nazwisko": "E.",
+    "oceny": [
+      4,
+      4,
+      6,
+      2,
+      4,
+      2,
+      2
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "imie": "Iwona",
+    "nazwisko": "Z.",
+    "waga": 84.5,
+    "wzrost": 1.71,
+    "rok_urodzenia": 1973
+  },
+  {
+    "imie": "Ester",
+    "nazwisko": "N.",
+    "waga": 40.5,
+    "wzrost": 1.33,
+    "rok_urodzenia": 2001
+  },
+  {
+    "imie": "Barnaba",
+    "nazwisko": 123,
+    "waga": 82.6,
+    "wzrost": 1.75,
+    "rok_urodzenia": 1981
+  },
+  {
+    "imie": "Jacek",
+    "nazwisko": "B.",
+    "waga": 90.9,
+    "wzrost": 1.64,
+    "rok_urodzenia": 1850
+  },
+  {
+    "imie": "Barnaba",
+    "nazwisko": "U.",
+    "waga": 80.4,
+    "wzrost": 1.79,
+    "rok_urodzenia": 1925
+  },
+  {
+    "imie": "Iwona",
+    "nazwisko": "B.",
+    "waga": 87.9,
+    "wzrost": 1.79,
+    "rok_urodzenia": 1953
+  },
+  {
+    "imie": "Barnaba",
+    "nazwisko": "V.",
+    "wzrost": 1.7,
+    "rok_urodzenia": 1950
+  },
+  {
+    "imie": "Barnaba",
+    "nazwisko": "M.",
+    "waga": 88.1,
+    "wzrost": 1.64,
+    "rok_urodzenia": 1997
+  },
+  {
+    "imie": "Ester",
+    "nazwisko": "Q.",
+    "waga": 62.2,
+    "wzrost": 1.76,
+    "rok_urodzenia": 1937
+  },
+  {
+    "imie": "Barnaba",
+    "nazwisko": "E.",
+    "waga": 67.8,
+    "wzrost": 1.7,
+    "rok_urodzenia": 2001
+  },
+  {
+    "imie": "Jacek",
+    "nazwisko": "M.",
+    "waga": 74.2,
+    "wzrost": 1.7,
+    "rok_urodzenia": 1970
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "imie": "Julian",
+    "nazwisko": "T.",
+    "waga": 107.2,
+    "wzrost": 1.52,
+    "rok_urodzenia": 1949,
+    "pracownicy": null
+  },
+  {
+    "imie": "Jacek",
+    "nazwisko": "L.",
+    "waga": 95.1,
+    "wzrost": 1.57,
+    "rok_urodzenia": 1949,
+    "szef" : true
+  },
+  {
+    "imie": "Helena",
+    "nazwisko": "B.",
+    "waga": 94.8,
+    "wzrost": 1.75,
+    "rok_urodzenia": 1950
+  },
+  {
+    "imie": "Filip",
+    "nazwisko": "P.",
+    "waga": 97.6,
+    "wzrost": 1.61,
+    "rok_urodzenia": 1972
+  },
+  {
+    "imie": "Helena",
+    "nazwisko": "D.",
+    "waga": 82.1,
+    "wzrost": 1.77,
+    "rok_urodzenia": 1956
+  },
+  {
+    "imie": "Artur",
+    "nazwisko": "S.",
+    "waga": 83.3,
+    "wzrost": 1.48,
+    "rok_urodzenia": 1959
+  },
+  {
+    "imie": "Helena",
+    "nazwisko": "X.",
+    "waga": 87.1,
+    "wzrost": 1.75,
+    "rok_urodzenia": 1972
+  },
+  {
+    "imie": "Gerturda",
+    "nazwisko": "T.",
+    "waga": 74.5,
+    "wzrost": 1.78,
+    "rok_urodzenia": 1975
+  },
+  {
+    "imie": "Grażyna",
+    "nazwisko": "C.",
+    "waga": 102.2,
+    "wzrost": 1.72,
+    "rok_urodzenia": 1972
+  },
+  {
+    "imie": "Artur",
+    "nazwisko": "W.",
+    "waga": 87,
+    "wzrost": 1.83,
+    "rok_urodzenia": 1970
+  },
+  {
+    "imie": "Jacek",
+    "nazwisko": "C.",
+    "waga": 90.4,
+    "wzrost": 1.76,
+    "rok_urodzenia": 1957
+  },
+  {
+    "imie": "Helena",
+    "nazwisko": "B.",
+    "waga": 97.6,
+    "wzrost": 1.64,
+    "rok_urodzenia": 1938
+  },
+  {
+    "imie": "Grażyna",
+    "nazwisko": "F.",
+    "waga": 109.1,
+    "wzrost": 1.43,
+    "rok_urodzenia": 1966
+  },
+  {
+    "imie": "Wiktor",
+    "nazwisko": "V.",
+    "waga": 53.2,
+    "wzrost": 1.73,
+    "rok_urodzenia": 1979
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "U.",
+    "waga": 80,
+    "wzrost": 1.74,
+    "rok_urodzenia": 1968
+  },
+  {
+    "imie": "Julian",
+    "nazwisko": "O.",
+    "waga": 92.8,
+    "wzrost": 1.64,
+    "rok_urodzenia": 1948
+  },
+  {
+    "imie": "Wiktor",
+    "nazwisko": "Q.",
+    "waga": 96.1,
+    "wzrost": 1.64,
+    "rok_urodzenia": 1939
+  },
+  {
+    "imie": "Grażyna",
+    "nazwisko": "N.",
+    "waga": 78,
+    "wzrost": 1.57,
+    "rok_urodzenia": 1914
+  },
+  {
+    "imie": "Katarzyna",
+    "nazwisko": "G.",
+    "waga": 83.8,
+    "wzrost": 1.51,
+    "rok_urodzenia": 1937
+  }
+]

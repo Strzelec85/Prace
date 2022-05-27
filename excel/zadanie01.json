@@ -1,0 +1,140 @@
+[
+  {
+    "data": 489,
+    "droga": 84257,
+    "paliwo": 28.53,
+    "cena": 4.16
+  },
+  {
+    "data": 502,
+    "droga": 85260,
+    "paliwo": 38.71,
+    "cena": 5.06
+  },
+  {
+    "data": 515,
+    "droga": 86219,
+    "paliwo": 40.49,
+    "cena": 5.06
+  },
+  {
+    "data": 533,
+    "droga": 86950,
+    "paliwo": 49.3,
+    "cena": 4.93
+  },
+  {
+    "data": 539,
+    "droga": 88149,
+    "paliwo": 54.09,
+    "cena": 4.3
+  },
+  {
+    "data": 552,
+    "droga": 88821,
+    "paliwo": 37.39,
+    "cena": 4.39
+  },
+  {
+    "data": 566,
+    "droga": 89514,
+    "paliwo": 25.12,
+    "cena": 4.64
+  },
+  {
+    "data": 580,
+    "droga": 90391,
+    "paliwo": 31.5,
+    "cena": 5.13
+  },
+  {
+    "data": 585,
+    "droga": 90936,
+    "paliwo": 31.24,
+    "cena": 4.82
+  },
+  {
+    "data": 592,
+    "droga": 91663,
+    "paliwo": 39.41,
+    "cena": 5.24
+  },
+  {
+    "data": 599,
+    "droga": 92147,
+    "paliwo": 26.42,
+    "cena": 4.96
+  },
+  {
+    "data": 608,
+    "droga": 92606,
+    "paliwo": 31.06,
+    "cena": 4.88
+  },
+  {
+    "data": 620,
+    "droga": 93606,
+    "paliwo": 49.27,
+    "cena": 5.25
+  },
+  {
+    "data": 639,
+    "droga": 94166,
+    "paliwo": 35.02,
+    "cena": 4.96
+  },
+  {
+    "data": 649,
+    "droga": 95295,
+    "paliwo": 53.31,
+    "cena": 4.15
+  },
+  {
+    "data": 658,
+    "droga": 96047,
+    "paliwo": 24.22,
+    "cena": 5.21
+  },
+  {
+    "data": 678,
+    "droga": 96587,
+    "paliwo": 28.54,
+    "cena": 4.95
+  },
+  {
+    "data": 698,
+    "droga": 97417,
+    "paliwo": 40.29,
+    "cena": 4.32
+  },
+  {
+    "data": 705,
+    "droga": 98387,
+    "paliwo": 48.06,
+    "cena": 4.54
+  },
+  {
+    "data": 713,
+    "droga": 98798,
+    "paliwo": 26.56,
+    "cena": 4.48
+  },
+  {
+    "data": 729,
+    "droga": 99417,
+    "paliwo": 25.38,
+    "cena": 5
+  },
+  {
+    "data": 747,
+    "droga": 100559,
+    "paliwo": 44.24,
+    "cena": 4.32
+  },
+  {
+    "data": 755,
+    "droga": 101359,
+    "paliwo": 51.65,
+    "cena": 4.15
+  }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<rect x="20.0" y="335.7" width="54.2" height="234.3" fill="#f00" stroke="#000" />
+<text x="20.0" y="335.7">4.5149</text>
+<text x="20.0" y="570.0" transform="rotate(-90, 20,570)">2020-12-21</text>
+<rect x="84.2" y="361.8" width="54.2" height="208.2" fill="#f00" stroke="#000" />
+<text x="84.2" y="361.8">4.5069</text>
+<text x="84.2" y="570.0" transform="rotate(-90, 84.16666666666666,570)">2020-12-22</text>
+<rect x="148.3" y="378.1" width="54.2" height="191.9" fill="#f00" stroke="#000" />
+<text x="148.3" y="378.1">4.5019</text>
+<text x="148.3" y="570.0" transform="rotate(-90, 148.33333333333331,570)">2020-12-23</text>
+<rect x="212.5" y="356.9" width="54.2" height="213.1" fill="#f00" stroke="#000" />
+<text x="212.5" y="356.9">4.5084</text>
+<text x="212.5" y="570.0" transform="rotate(-90, 212.49999999999997,570)">2020-12-24</text>
+<rect x="276.7" y="423.7" width="54.2" height="146.3" fill="#f00" stroke="#000" />
+<text x="276.7" y="423.7">4.4879</text>
+<text x="276.7" y="570.0" transform="rotate(-90, 276.66666666666663,570)">2020-12-28</text>
+<rect x="340.8" y="367.6" width="54.2" height="202.4" fill="#f00" stroke="#000" />
+<text x="340.8" y="367.6">4.5051</text>
+<text x="340.8" y="570.0" transform="rotate(-90, 340.83333333333326,570)">2020-12-29</text>
+<rect x="405.0" y="295.6" width="54.2" height="274.4" fill="#f00" stroke="#000" />
+<text x="405.0" y="295.6">4.5272</text>
+<text x="405.0" y="570.0" transform="rotate(-90, 404.9999999999999,570)">2020-12-30</text>
+<rect x="469.2" y="10.0" width="54.2" height="560.0" fill="#f00" stroke="#000" />
+<text x="469.2" y="10.0">4.6148</text>
+<text x="469.2" y="570.0" transform="rotate(-90, 469.1666666666665,570)">2020-12-31</text>
+<rect x="533.3" y="226.1" width="54.2" height="343.9" fill="#f00" stroke="#000" />
+<text x="533.3" y="226.1">4.5485</text>
+<text x="533.3" y="570.0" transform="rotate(-90, 533.3333333333331,570)">2021-01-04</text>
+<rect x="597.5" y="238.9" width="54.2" height="331.1" fill="#f00" stroke="#000" />
+<text x="597.5" y="238.9">4.5446</text>
+<text x="597.5" y="570.0" transform="rotate(-90, 597.4999999999998,570)">2021-01-05</text>
+<rect x="661.7" y="393.1" width="54.2" height="176.9" fill="#f00" stroke="#000" />
+<text x="661.7" y="393.1">4.4973</text>
+<text x="661.7" y="570.0" transform="rotate(-90, 661.6666666666664,570)">2021-01-07</text>
+<rect x="725.8" y="322.6" width="54.2" height="247.4" fill="#f00" stroke="#000" />
+<text x="725.8" y="322.6">4.5189</text>
+<text x="725.8" y="570.0" transform="rotate(-90, 725.833333333333,570)">2021-01-08</text>
+</svg>

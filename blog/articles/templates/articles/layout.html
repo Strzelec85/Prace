@@ -1,0 +1,20 @@
+<!doctype html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Mój superblog XXX</title>
+</head>
+<body>
+    <h1>Mój superblog</h1>
+    <div>
+        {% for cat in categories %}
+        [{{cat.name}}]
+        {% endfor %}
+    </div>
+    {% block tresc %}
+    PUSTY
+    {% endblock %}
+    <p>Bieżąca data: {{ d }}</p>
+</body>
+</html>
